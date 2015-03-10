@@ -7,10 +7,9 @@
 	<div class="pi-section-w pi-shadow-inside-top pi-section-parallax" style="background-image: url(img_external/gallery/water-wave-bg-1.jpg);">
 		<div class="pi-section pi-padding-top-90 pi-padding-bottom-70 pi-text-center">
 
-			<div class="pi-img-w pi-img-center pi-margin-bottom-40" style="width: 240px;">
+			<div class="pi-img-w pi-img-center pi-margin-bottom-40" style="width: 340px;">
 				<img src="img_external/gallery/logo-big-white-circle.png" alt="">
 			</div>
-
 
 
 				<a href="/pages/quienessomos" class="btn pi-btn-base pi-btn-no-border pi-shadow pi-btn-big">
