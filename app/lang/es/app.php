@@ -8,31 +8,31 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 
-	'site' 		=>  "SyNMisiones.com",
+	'site' 		=>  "HTCVirasoro.com",
 
-	'title_site'		=>	"S&N Misiones",
+	'title_site'		=>	"Honorable Tribunal de Cuentas de Gdor. Virasoro Ctes.",
 
-	'title_home' => "Consultora de Gestión de Calidad",
+	'title_home' => "",
 
-	'email'		=>	"<strong>comercial@synmisiones.com</strong>",
+	'email'		=>	"<strong>secretaria@htcvirasoro.com</strong>",
 
-	'telefono'		=>	"<strong>+54 0376 4439326</strong>",
+	'telefono'		=>	"<strong>+54 0376 xxxxx</strong>",
 
-	'seguinos_facebook'		=>	"https://facebook.com/pages/SN-Servicios/1564714993750159?ref=hl S&N Servicios",
+	'seguinos_facebook'		=>	"https://www.facebook.com/pages/Tribunal-de-Cuentas-Virasoro/1614805195421025?ref=hl",
 
-	'seguinos_twitter'		=>	"https://twitter.com/synservicios",
+	'seguinos_twitter'		=>	"https://twitter.com/htcvirasoro",
 
-	'seguinos_googleplus'		=>	"http://plus.google.com/u/0/116409445805080169378/posts",
+	'seguinos_googleplus'		=>	"https://plus.google.com/u/0/104928352009020456990/posts",
 
 	'seguinos_instagram'		=>	"",
 
-	'seguinos_youtube'		=>	"http://www.youtube.com/channel/UCWTCkRQ6MUXuSK1TXp0GI_w",
+	'seguinos_youtube'		=>	"https://www.youtube.com/channel/UCPYF9DwE_QU0nCKBAkUUZIA",
 
-	'direccion'		=>	"Posadas, Misiones AR",
+	'direccion'		=>	"Av. Lavalle y Manuel Ocampo, Of. 1",
 
-	'contacto'		=>	"+54 0376 4439326 <br><a href='mailto:info@synmisiones.com'>info@synmisiones.com</a>",
+	'contacto'		=>	"+54 0376 xxxx <br><a href='mailto:secretaria@htcvirasoro.com'>secretaria@htcvirasoro.com</a>",
 
-	'title_food' => "S&N Misiones",
+	'title_food' => "HTCVirasoro.com",
 
 ''		=>	"",
 ''		=>	"",
