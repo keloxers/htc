@@ -12,9 +12,6 @@
 			</div>
 
 
-<div class="pi-img-w pi-img-center pi-margin-bottom-40" style="width: 540px;">
-	<img src="img_external/gallery/logo-big-white-texto.png" alt="">
-</div>
 
 				<a href="/pages/quienessomos" class="btn pi-btn-base pi-btn-no-border pi-shadow pi-btn-big">
 					Quienes Somos
