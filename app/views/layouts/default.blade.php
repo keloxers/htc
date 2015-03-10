@@ -476,7 +476,7 @@ foreach ($pagestops as $pagestop) {
 		<!-- End footer logo -->
 
 		<!-- Text -->
-		<span class="pi-header-block pi-header-block-txt pi-hidden-xs">&copy; 2014. &laquo;<a href="/">{{trans('app.title_food')}}</a>&raquo;.
+		<span class="pi-header-block pi-header-block-txt pi-hidden-xs">&copy; 2015. &laquo;<a href="/">{{trans('app.title_food')}}</a>&raquo;.
 			Todos los derechos reservados.
 		</span>
 		<!-- End text -->
