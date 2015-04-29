@@ -16,7 +16,7 @@ return array(
 
 	'email'		=>	"<strong>secretaria@htcvirasoro.com</strong>",
 
-	'telefono'		=>	"<strong>+54 0376 xxxxx</strong>",
+	'telefono'		=>	"<strong>+54 03756 481994</strong>",
 
 	'seguinos_facebook'		=>	"https://www.facebook.com/pages/Tribunal-de-Cuentas-Virasoro/1614805195421025?ref=hl",
 
@@ -28,9 +28,9 @@ return array(
 
 	'seguinos_youtube'		=>	"https://www.youtube.com/channel/UCPYF9DwE_QU0nCKBAkUUZIA",
 
-	'direccion'		=>	"Av. Lavalle y Manuel Ocampo, Of. 1",
+	'direccion'		=>	"Av. Lavalle y Manuel Ocampo, oficina 1 Paseo ex terminal",
 
-	'contacto'		=>	"+54 0376 xxxx <br><a href='mailto:secretaria@htcvirasoro.com'>secretaria@htcvirasoro.com</a>",
+	'contacto'		=>	"+54 03756 481994 <br><a href='mailto:secretaria@htcvirasoro.com'>secretaria@htcvirasoro.com</a>",
 
 	'title_food' => "HTCVirasoro.com",
 
