@@ -9,13 +9,8 @@
 
 		<div class="pi-text-center pi-margin-bottom-60">
 			<h1 class="pi-uppercase pi-weight-700 pi-has-border pi-has-tall-border pi-has-short-border pi-margin-bottom-70">
-				Participá
+				Contactános
 			</h1>
-<h3>
-	Vos también podés formar parte del futuro, <br>
-	Mandanos tus proyectos, contanos tus ideas <br>
-	y comentanos tus inquietudes:
-</h3>
 
 		</div>
 
