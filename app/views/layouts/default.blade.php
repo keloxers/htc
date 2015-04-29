@@ -294,7 +294,7 @@ foreach ($pagestops as $pagestop) {
 					</h6>
 
 					<p>
-						+54 03756 xxxxxx<br>
+						{{trans('app.telefono')}}<br>
 					</p>
 
 				</div>
